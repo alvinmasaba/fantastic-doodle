@@ -1,3 +1,4 @@
 import pygame
 
-# yea 
+if __name__ == '__main__':
+  print("Hey Alvin. Github is pretty cool, huh?")
